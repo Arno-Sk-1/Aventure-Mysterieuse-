@@ -162,4 +162,5 @@ def debut():
         print("FIN DE L'AVENTURE !")
 
 
-debut()
+if __name__ == "__main__":
+    debut()
